@@ -1,0 +1,62 @@
+# Latihan 1
+adjacency_matrix = np.array([[0, 1, 0, 0, 0, 0],
+                             [0, 0, 1, 0, 0, 0],
+                             [0, 0, 0, 1, 0, 0],
+                             [0, 0, 0, 0, 1, 0],
+                             [0, 0, 0, 0, 0, 1],
+                             [0, 0, 0, 0, 0, 0]])
+PageRank (adjacency_matrix)
+GambarGrafik (adjacency_matrix)
+
+# Latihan 2
+adjacency_matrix = np.array([[0, 1, 0, 0, 0],
+                             [0, 0, 1, 0, 0],
+                             [0, 0, 0, 1, 0],
+                             [0, 0, 0, 0, 1],
+                             [1, 0, 0, 0, 0]])
+PageRank (adjacency_matrix)
+GambarGrafik (adjacency_matrix)
+
+# Latihan 3
+adjacency_matrix = np.array([[0, 1, 0, 0, 0],
+                             [1, 0, 1, 0, 0],
+                             [0, 1, 0, 1, 0],
+                             [0, 0, 1, 0, 0]])
+PageRank (adjacency_matrix)
+GambarGrafik (adjacency_matrix)
+
+# Latihan 4
+adjacency_matrix = np.array([[0, 1, 0, 0, 0, 0],
+                             [0, 0, 1, 0, 0, 0],
+                             [0, 0, 0, 1, 0, 0],
+                             [0, 0, 0, 0, 1, 0],
+                             [0, 0, 0, 0, 0, 1],
+                             [1, 0, 0, 0, 0, 0]])
+PageRank (adjacency_matrix)
+GambarGrafik (adjacency_matrix)
+
+# Latihan 5
+adjacency_matrix = np.array([[0, 1, 0, 0, 0],
+                             [0, 0, 1, 0, 0],
+                             [0, 0, 0, 1, 0],                             
+                             [1, 0, 0, 0, 0]])
+PageRank (adjacency_matrix)
+GambarGrafik (adjacency_matrix)
+
+# Latihan 6
+adjacency_matrix = np.array([[0, 1, 0, 0, 0],
+                             [0, 0, 1, 0, 0],
+                             [0, 0, 0, 1, 0],
+                             [1, 0, 0, 0, 1],
+                             [1, 0, 0, 0, 0]])
+PageRank (adjacency_matrix)
+GambarGrafik (adjacency_matrix)
+
+# Latihan 7
+adjacency_matrix = np.array([[0, 1, 1, 0, 0],
+                             [0, 0, 1, 0, 0],
+                             [0, 0, 0, 1, 1],
+                             [1, 0, 0, 0, 1],
+                             [1, 0, 0, 0, 0]])
+PageRank (adjacency_matrix)
+GambarGrafik (adjacency_matrix)
